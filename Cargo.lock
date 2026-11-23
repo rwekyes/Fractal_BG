@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "Fractal_BG"
+name = "fractal_bg"
 version = "0.1.0"
