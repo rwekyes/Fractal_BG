@@ -1,0 +1,7 @@
+1. Print the Mandelbrot to a file
+2. Editable color palette
+3. Live zoom and pan
+4. Print live view
+5. Enter coordinates
+6. Run on a timer
+7. Auto-generate "interesting" spots
