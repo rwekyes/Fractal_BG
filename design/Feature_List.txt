@@ -5,3 +5,4 @@
 5. Enter coordinates
 6. Run on a timer
 7. Auto-generate "interesting" spots
+8. Deep zoom (perturbation + double-double)
